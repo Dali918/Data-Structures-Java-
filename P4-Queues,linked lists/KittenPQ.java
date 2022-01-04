@@ -1,5 +1,5 @@
 // P3
-// STUDENT NAME HERE
+// Dalitso Banda
 
 /*
  * Instructions
